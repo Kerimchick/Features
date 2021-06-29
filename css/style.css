@@ -163,7 +163,6 @@ li{
     margin: 33px 0 15px;
 }
 .features__desc{
-    width: 300px;
     font-size: 16px;
     line-height: 24px;
     text-align: center;
@@ -171,6 +170,7 @@ li{
     opacity: 0.7;
     margin-bottom: 109px;
 }
+
 
 
 
