@@ -118,6 +118,11 @@ li{
     right: 36px;
     top: -203px;
 }
+.img__shadow{
+    position: absolute;
+    bottom: 100px;
+    right: 297px;
+}
 .features{
     text-align: center;
 }
